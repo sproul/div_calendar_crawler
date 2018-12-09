@@ -1,2 +1,9 @@
 out
 http_cache
+midnight.*
+*_Report.log
+ui.htm
+midnight
+.#*
+.unison.*
+*.new
